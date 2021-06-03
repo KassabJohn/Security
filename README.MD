@@ -1,3 +1,11 @@
+
+Année 2020 - 2021
+
+L'objectif de ce dossier technique est de mettre en place une
+architecture similaire à celle-là :
+
+![](mediafolder/b29bc4867c2e3658a3329ff3fbe8789253c86548.png)
+
 DOSSIER TECHNIQUE
 
 Durée :
@@ -32,12 +40,6 @@ Mise en place d\'une infrastructure comprenant :
 
 -   1 client
 
-Année 2020 - 2021
-
-L'objectif de ce dossier technique est de mettre en place une
-architecture similaire à celle-là :
-
-![](mediafolder/b29bc4867c2e3658a3329ff3fbe8789253c86548.png)
 
 Installation + configuration de l'ISO pfSense
 
